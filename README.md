@@ -67,7 +67,7 @@ My focus is on building solutions that are **efficient, intuitive, and actionabl
 
 ---
 
-#### **📄 AI Document Summarizer API**
+#### **📄 GenAI Document Processor**
 - Developed an **AI-powered PDF summarization service** using Gemini.  
 - Deployed via **FastAPI in Docker** with JWT-authenticated REST APIs for scalable NLP processing.  
 **Tech:** `FastAPI`, `Gemini Flash`, `Docker`, `PyMuPDF`  
