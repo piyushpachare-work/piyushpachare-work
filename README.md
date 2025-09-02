@@ -106,10 +106,10 @@ My focus is on building solutions that are **efficient, intuitive, and actionabl
 
 ---
 
-#### **💊 Medicine/Health Analytics Project**
-- Collected and analyzed **health/medicine data** for patient insights and trend analysis.  
-- Built **interactive dashboards** and **predictive models** for healthcare decision-making.  
-**Tech:** `Python`, `Pandas`, `Power BI`, `Machine Learning`  
+#### **💊 Medicine Recommendation Chatbot**
+- Developed an NLP-driven recommendation system that parses user-described symptoms using the spaCy library and maps them to a structured medicine dataset.
+- Built an intuitive graphical user interface (GUI) with Tkinter, creating a conversational chatbot experience for users to receive instant, symptom-based medicine suggestions.
+**Tech:** `Python`, `Pandas`, `spaCy for NLP`, `Tkinter for the GUI`, `Machine Learning`  
 **Link:** [AI Medicine Recommender Chatbot](https://github.com/piyushpachare-work/AI-Medicine-Recommender-Chatbot)
 
 ---
