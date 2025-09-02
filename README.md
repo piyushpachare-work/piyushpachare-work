@@ -84,11 +84,15 @@ My focus is on building solutions that are **efficient, intuitive, and actionabl
 
 ---
 
-#### **🏭 Procurement Analytics on Microsoft Fabric**
-- Built an end-to-end **Fabric solution** to ingest and analyze procurement data into a Lakehouse.  
-- Developed **KPI dashboards in Power BI** for vendor performance, purchase orders, and forecasts.  
-**Tech:** `Microsoft Fabric`, `Power BI`, `Pipelines`, `DAX`  
-**Link:** *(Add link if available)*
+
+#### **✈️ Travel Booking Agent – Microsoft Copilot Studio**
+- Built a **no-code conversational AI** in Microsoft Copilot Studio to plan and book trips efficiently.  
+- Collects traveler details, stores itineraries in **Excel**, and sends automated email confirmations.  
+- Uses **topics, entities, and agent flows** to dynamically fetch travel info and guide users.  
+- Demonstrates **workflow automation** using Copilot Studio’s generative and orchestration features.  
+**Tech:** `Microsoft Copilot Studio`, `Excel`, `No-Code AI`  
+**Link:** [GitHub Repository](https://github.com/piyushpachare-work/TripPlanningAgent)
+
 
 ---
 
