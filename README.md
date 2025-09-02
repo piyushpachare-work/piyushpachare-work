@@ -34,25 +34,25 @@ My focus is on building solutions that are **efficient, intuitive, and actionabl
 ### 🛠 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://img.icons8.com/?size=100&id=jXuZmZPUKCPS&format=png&color=000000" alt="Python" width="60" height="60"/>
-  <img src="https://img.icons8.com/?size=100&id=kTTt25v6Drpd&format=png&color=000000" alt="PySpark" width="60" height="60"/>
-  <img src="https://img.icons8.com/?size=100&id=bVAf0kiXtJhO&format=png&color=000000" alt="SQL" width="60" height="60"/>
-  <img src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000" alt="FastAPI" width="60" height="60"/>
-  <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" alt="Flask" width="60" height="60"/>
-  <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" alt="MySQL" width="60" height="60"/>
+  <img src="https://img.icons8.com/?size=100&id=jXuZmZPUKCPS&format=png&color=000000" alt="Python" width="60" height="60" style="margin:10 px"/>
+  <img src="https://img.icons8.com/?size=100&id=kTTt25v6Drpd&format=png&color=000000" alt="PySpark" width="60" height="60" style="margin:10 px"/>
+  <img src="https://img.icons8.com/?size=100&id=bVAf0kiXtJhO&format=png&color=000000" alt="SQL" width="60" height="60" style="margin:10 px"/>
+  <img src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000" alt="FastAPI" width="60" height="60" style="margin:10 px"/>
+  <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" alt="Flask" width="60" height="60" style="margin:10 px"/>
+  <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" alt="MySQL" width="60" height="60" style="margin:10 px"/>
   
-  <img src="https://img.icons8.com/?size=100&id=PxQoyT1s0uFh&format=png&color=000000" alt="Excel" width="60" height="60"/>
-  <img src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" alt="Power BI" width="60" height="60"/>
-  <img src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" alt="Power Automate" width="60" height="60"/>
-  <img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" alt="Power Apps" width="60" height="60"/>
-  <img src="https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000" alt="Microsoft Fabric" width="60" height="60"/>
-  <img src="https://img.icons8.com/?size=100&id=rnK88i9FvAFO&format=png&color=000000" alt="Gemini Flash 2.0" width="60" height="60"/>
-  <img src="https://img.icons8.com/?size=100&id=5mbMwDZ796xj&format=png&color=000000" alt="Docker" width="60" height="60"/>
-  <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="SQLAlchemy" width="60" height="60"/>
-  <img src="https://davidalzamendi.com/wp-content/uploads/2023/05/Fabric_final_x256.png" alt="Custom Fabric Icon" width="60" height="60"/>
-  <img src="https://www.solzit.com/wp-content/uploads/2024/09/Microsoft-Dynamics-365-logo.png" alt="Dynamics 365" width="100" height="100"/>
-  <img src="https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-brand/icons/PP-Hero_Icon_PowerPages.svg" alt="Power Pages" width="60" height="60"/>
-  <img src="https://trillium.net/media/no0jrmol/dataverse_logo.png" alt="Dataverse" width="60" height="60"/>
+  <img src="https://img.icons8.com/?size=100&id=PxQoyT1s0uFh&format=png&color=000000" alt="Excel" width="60" height="60" style="margin:10 px"/>
+  <img src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" alt="Power BI" width="60" height="60" style="margin:10 px"/>
+  <img src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" alt="Power Automate" width="60" height="60" style="margin:10 px"/>
+  <img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" alt="Power Apps" width="60" height="60" style="margin:10 px"/>
+  <img src="https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000" alt="Microsoft Fabric" width="60" height="60" style="margin:10 px"/>
+  <img src="https://img.icons8.com/?size=100&id=rnK88i9FvAFO&format=png&color=000000" alt="Gemini Flash 2.0" width="60" height="60" style="margin:10 px"/>
+  <img src="https://img.icons8.com/?size=100&id=5mbMwDZ796xj&format=png&color=000000" alt="Docker" width="60" height="60" style="margin:10 px"/>
+  <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="SQLAlchemy" width="60" height="60" style="margin:10 px"/>
+  <img src="https://davidalzamendi.com/wp-content/uploads/2023/05/Fabric_final_x256.png" alt="Custom Fabric Icon" width="60" height="60" style="margin:10 px"/>
+  <img src="https://www.solzit.com/wp-content/uploads/2024/09/Microsoft-Dynamics-365-logo.png" alt="Dynamics 365" width="100" height="100" style="margin:10 px"/>
+  <img src="https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-brand/icons/PP-Hero_Icon_PowerPages.svg" alt="Power Pages" width="60" height="60" style="margin:10 px"/>
+  <img src="https://trillium.net/media/no0jrmol/dataverse_logo.png" alt="Dataverse" width="60" height="60" style="margin:10 px"/>
 </p>
 
 
