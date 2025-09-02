@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="" alt="Piyush Pachare - Data Engineer & Analytics Developer"/>
+  <img src="https://github.com/piyushpachare-work/piyushpachare-work/blob/main/github-header-banner%20(8).png" alt="Piyush Pachare - Data Engineer & Analytics Developer"/>
 </p>
 
-<h3 align="center"> Hi, I'm Piyush Pachare 👋 </h3>
+<h3 align="left"> Hi, I'm Piyush Pachare 👋 </h3>
 
 I am a **passionate Data Engineer & Analytics Developer** with hands-on experience in designing and deploying **enterprise-grade data solutions**.
 
