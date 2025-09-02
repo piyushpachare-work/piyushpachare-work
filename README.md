@@ -85,7 +85,7 @@ My focus is on building solutions that are **efficient, intuitive, and actionabl
 ---
 
 
-#### **✈️ Travel Booking Agent – Microsoft Copilot Studio**
+#### **✈️ Travel Booking AI Agent – Microsoft Copilot Studio**
 - Built a **no-code conversational AI** in Microsoft Copilot Studio to plan and book trips efficiently.  
 - Collects traveler details, stores itineraries in **Excel**, and sends automated email confirmations.  
 - Uses **topics, entities, and agent flows** to dynamically fetch travel info and guide users.  
@@ -106,7 +106,7 @@ My focus is on building solutions that are **efficient, intuitive, and actionabl
 
 ---
 
-#### **💊 Medicine Recommendation Chatbot**
+#### **💊 AI Medicine Recommendation Chatbot**
 - Developed an NLP-driven recommendation system that parses user-described symptoms using the spaCy library and maps them to a structured medicine dataset.
 - Built an intuitive graphical user interface (GUI) with Tkinter, creating a conversational chatbot experience for users to receive instant, symptom-based medicine suggestions.
 **Tech:** `Python`, `Pandas`, `spaCy for NLP`, `Tkinter for the GUI`, `Machine Learning`  
