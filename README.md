@@ -19,6 +19,7 @@ My focus is on building solutions that are **efficient, intuitive, and actionabl
   <a href="mailto:piyushpachare.work@gmail.com">
     <img src="https://img.shields.io/badge/📬-Email-FF6F61?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40"/>
   </a>
+  
   <a href="https://linkedin.com/in/piyush-pachare">
     <img src="https://img.shields.io/badge/🌟-LinkedIn-6A5ACD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
   </a>
@@ -65,7 +66,7 @@ My focus is on building solutions that are **efficient, intuitive, and actionabl
 - Developed an **AI-powered PDF summarization service** using Gemini.  
 - Deployed via **FastAPI in Docker** with JWT-authenticated REST APIs for scalable NLP processing.  
 **Tech:** `FastAPI`, `Gemini Flash`, `Docker`, `PyMuPDF`  
-
+**Link:** https://github.com/piyushpachare-work/GenAI-Document-Processor
 ---
 
 #### **🛒 Haldiram Market Research & Analytics**
@@ -73,14 +74,14 @@ My focus is on building solutions that are **efficient, intuitive, and actionabl
 - Stored **structured insights** in PostgreSQL and exposed via REST APIs.  
 - Built **Power BI dashboards** for market, competitive, and consumer analysis.  
 **Tech:** `FastAPI`, `BeautifulSoup`, `PostgreSQL`, `Power BI`, `Pandas`  
-
+**Link:** https://github.com/piyushpachare-work/Market-Intelligence-OSINT-Pipeline
 ---
 
 #### **🏭 Procurement Analytics on Microsoft Fabric**
 - Built an end-to-end **Fabric solution** to ingest and analyze procurement data into a Lakehouse.  
 - Developed **KPI dashboards in Power BI** for vendor performance, purchase orders, and forecasts.  
 **Tech:** `Microsoft Fabric`, `Power BI`, `Pipelines`, `DAX`  
-
+**Link:**
 ---
 
 #### **📊 Sales ETL Pipeline on Azure**
@@ -88,12 +89,12 @@ My focus is on building solutions that are **efficient, intuitive, and actionabl
 - Implemented **data quality checks, incremental loads, and alerts**.  
 - Built **Power BI reports** to track revenue trends and product performance.  
 **Tech:** `Azure Data Factory`, `Azure SQL`, `Blob Storage`, `PySpark`, `Power BI`  
-
+**Link:**
 ---
 
 #### **💊 Medicine/Health Analytics Project**
 - Collected and analyzed **health/medicine data** for patient insights and trend analysis.  
 - Built **interactive dashboards** and **predictive models** for healthcare decision-making.  
 **Tech:** `Python`, `Pandas`, `Power BI`, `Machine Learning`  
-
+**Link:** https://github.com/piyushpachare-work/AI-Medicine-Recommender-Chatbot
 ---
